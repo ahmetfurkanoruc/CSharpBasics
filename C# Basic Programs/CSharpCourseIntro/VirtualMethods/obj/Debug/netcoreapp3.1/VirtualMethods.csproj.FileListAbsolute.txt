@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.exe
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.deps.json
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.dll
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.pdb
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.dll
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.pdb
+D:\C# Kursu\CSharpCourseIntro\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.genruntimeconfig.cache

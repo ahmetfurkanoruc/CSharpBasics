@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.exe
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.deps.json
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.dll
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\bin\Debug\netcoreapp3.1\RecapDemo2.pdb
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.dll
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.pdb
+D:\C# Kursu\CSharpCourseIntro\RecapDemo2\obj\Debug\netcoreapp3.1\RecapDemo2.genruntimeconfig.cache

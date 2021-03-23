@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+D:\C# Kursu\CSharpCourseIntro\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+D:\C# Kursu\CSharpCourseIntro\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache

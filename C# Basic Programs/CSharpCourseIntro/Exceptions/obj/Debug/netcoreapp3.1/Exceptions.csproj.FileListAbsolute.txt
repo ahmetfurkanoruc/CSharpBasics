@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+D:\C# Kursu\CSharpCourseIntro\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+D:\C# Kursu\CSharpCourseIntro\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

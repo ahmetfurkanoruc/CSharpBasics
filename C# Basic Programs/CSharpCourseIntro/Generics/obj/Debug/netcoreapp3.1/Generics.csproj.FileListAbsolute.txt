@@ -1,0 +1,13 @@
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+D:\C# Kursu\CSharpCourseIntro\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\C# Kursu\CSharpCourseIntro\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

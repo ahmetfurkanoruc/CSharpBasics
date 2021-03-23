@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\C# Kursu\CSharpCourseIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\C# Kursu\CSharpCourseIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

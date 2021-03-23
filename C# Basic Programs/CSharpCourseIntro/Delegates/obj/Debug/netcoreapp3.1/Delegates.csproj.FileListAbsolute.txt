@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\C# Kursu\CSharpCourseIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\C# Kursu\CSharpCourseIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

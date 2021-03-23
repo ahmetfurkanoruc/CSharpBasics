@@ -1,0 +1,10 @@
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C# Kursu\CSharpCourseIntro\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

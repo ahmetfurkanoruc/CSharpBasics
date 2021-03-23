@@ -1,0 +1,13 @@
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.exe
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.deps.json
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.dll
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.pdb
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.csprojAssemblyReference.cache
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.dll
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.pdb
+D:\C# Kursu\CSharpCourseIntro\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.genruntimeconfig.cache

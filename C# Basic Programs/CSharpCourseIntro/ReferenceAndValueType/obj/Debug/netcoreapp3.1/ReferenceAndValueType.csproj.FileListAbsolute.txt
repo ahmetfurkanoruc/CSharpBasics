@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.exe
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.deps.json
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\bin\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.dll
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.pdb
+D:\C# Kursu\CSharpCourseIntro\ReferenceAndValueType\obj\Debug\netcoreapp3.1\ReferenceAndValueType.genruntimeconfig.cache

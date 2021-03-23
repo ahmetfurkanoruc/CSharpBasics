@@ -1,0 +1,12 @@
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.exe
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.dll
+D:\C# Kursu\CSharpCourseIntro\Events\bin\Debug\netcoreapp3.1\Events.pdb
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.dll
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.pdb
+D:\C# Kursu\CSharpCourseIntro\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

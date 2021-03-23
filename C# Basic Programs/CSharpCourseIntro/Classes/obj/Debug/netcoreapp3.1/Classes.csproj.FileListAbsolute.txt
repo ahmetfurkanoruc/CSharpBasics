@@ -1,0 +1,13 @@
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+D:\C# Kursu\CSharpCourseIntro\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+D:\C# Kursu\CSharpCourseIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
